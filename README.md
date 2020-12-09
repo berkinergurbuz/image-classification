@@ -1,6 +1,6 @@
 # image-classification
 
-CNN İle Kartal ve Kaplan Görsellerini Sınıflandırma
+CNN İle Kartal ve Kaplan Görsellerini Sınıflandırma <br>
 İki sınıflı CNN tabanlı bir derin öğrenme problemi çözülmüştür. Problem 4 adımda değerlendirilmiştir.
 
 A) İLK ADIM: Normal olarak CNN-maxpool olayı sürecinde 30 epoch seçilerek uygulandı.
